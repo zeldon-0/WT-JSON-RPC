@@ -1,0 +1,15 @@
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\JSON.RPC.Server.exe
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\JSON.RPC.Server.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\JSON.RPC.Server.deps.json
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\JSON.RPC.Server.runtimeconfig.json
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\JSON.RPC.Server.pdb
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\Autofac.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\Autofac.Extensions.DependencyInjection.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\MethodLayer.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\Models.dll
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\MethodLayer.pdb
+E:\WT\RPC\JSON.RPC.Server\JSON.RPC.Server\obj\Release\netcoreapp3.1\PubTmp\Out\Models.pdb

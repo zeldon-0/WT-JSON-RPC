@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKVn20inzS5KlKzoHtyhoCAIph3PHBSP5ensAKS0t90ji/TW29eGkvPiJSgMohZV93jyTiDXnlPRnodFIGcMmg==",
+  "success": true,
+  "projectFilePath": "E:\\WT\\RPC\\JSON.RPC.Server\\JSON.RPC.Server\\JSON.RPC.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

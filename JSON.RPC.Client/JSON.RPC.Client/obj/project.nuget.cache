@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IT73Xt2WLPvUdX8cVwqLIuIrrp40q3iCiTex4cKy9qqQacxEACEc34y9OY3BTUblAN5UkOVY6H+moJTmr01xUQ==",
+  "success": true,
+  "projectFilePath": "E:\\WT\\RPC\\JSON.RPC.Client\\JSON.RPC.Client\\JSON.RPC.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

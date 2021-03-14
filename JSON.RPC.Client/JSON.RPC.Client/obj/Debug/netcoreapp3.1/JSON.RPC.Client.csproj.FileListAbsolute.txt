@@ -1,0 +1,15 @@
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.exe
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.deps.json
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.runtimeconfig.json
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.runtimeconfig.dev.json
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.dll
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\JSON.RPC.Client.pdb
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.csprojAssemblyReference.cache
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.AssemblyInfoInputs.cache
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.AssemblyInfo.cs
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.csproj.CoreCompileInputs.cache
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.csproj.CopyComplete
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.dll
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.pdb
+E:\WT\RPC\JSON.RPC.Client\JSON.RPC.Client\obj\Debug\netcoreapp3.1\JSON.RPC.Client.genruntimeconfig.cache

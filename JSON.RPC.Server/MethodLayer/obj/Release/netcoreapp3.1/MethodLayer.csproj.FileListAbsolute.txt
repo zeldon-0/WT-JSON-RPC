@@ -1,0 +1,12 @@
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\bin\Release\netcoreapp3.1\MethodLayer.deps.json
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\bin\Release\netcoreapp3.1\MethodLayer.dll
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\bin\Release\netcoreapp3.1\MethodLayer.pdb
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\bin\Release\netcoreapp3.1\Models.dll
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\bin\Release\netcoreapp3.1\Models.pdb
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.csprojAssemblyReference.cache
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.AssemblyInfoInputs.cache
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.AssemblyInfo.cs
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.csproj.CoreCompileInputs.cache
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.csproj.CopyComplete
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.dll
+E:\WT\RPC\JSON.RPC.Server\MethodLayer\obj\Release\netcoreapp3.1\MethodLayer.pdb

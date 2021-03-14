@@ -1,0 +1,9 @@
+E:\WT\RPC\JSON.RPC.Server\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\WT\RPC\JSON.RPC.Server\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\WT\RPC\JSON.RPC.Server\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\WT\RPC\JSON.RPC.Server\Models\obj\Debug\netcoreapp3.1\Models.pdb
